@@ -5,3 +5,5 @@ adding line2
 
 
 I 'm patik 
+
+this is new line that im adding before git push
